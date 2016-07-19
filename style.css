@@ -1,0 +1,117 @@
+/*
+ Theme Name:   Tk donny
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+@import url('https://fonts.googleapis.com/css?family=Lato');
+/*this the the part of th innovating one day at time*/
+.lead {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+    color: white;
+
+}
+
+
+body{
+	background-color: #2b3e50;
+    font-family: lato;
+   src: url(sansation_light.woff);
+   color:white;
+
+}
+/* navigation bar*/
+.navbar-default .navbar-collapse, .navbar-default .navbar-form button:hover{
+	background-color:#df691a;
+	color: white;
+}
+
+.container .jumbotron, .container-fluid .jumbotron{
+	color:white;
+	background-color: grey;
+}
+/*this is for the text in the about page chaning the color to white.*/
+p{
+    color:white;
+}
+
+.h2, h2{
+    color:white;
+
+}
+
+a{
+    color:white;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+    background-color: #df691a;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+    background-color: #df691a;
+}
+
+.navbar-nav>li>a button:hover{
+    color:#df691a;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color: #c85e17;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:white;
+}
+
+.navbar-default .navbar-brand{
+    color:white;
+}
+
+form{
+background-color: grey;
+}
+
+input{
+    color:black;
+}
+button, input, select, textarea{
+    color: black;
+}
+
+ input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button {
+    background-color: grey;
+}
+.site-info{
+    color:#df691a;
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    color:white;
+}
+.pager li>a, .pager li>span{
+    background-color:#df691a;
+    color:white;
+}
+.h1, h1{ 
+    color:#df691a;
+}
+
+a{
+    color:#df691a; 
+}
+
+input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button{
+    background-color: #df691a;
+    color:white;
